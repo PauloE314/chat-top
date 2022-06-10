@@ -1,0 +1,15 @@
+{
+  "name": "chat-top-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "DEBUG=socket.io:socket,engine:ws node ./src/index.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
