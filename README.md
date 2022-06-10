@@ -24,4 +24,5 @@ yarn start
 
 Both applications need to be running at the same time.
 
-![Image](https://i.ibb.co/r4ZCCxb/Screenshot-from-2022-06-10-14-12-25.png)
+![Home](https://i.ibb.co/r4ZCCxb/Screenshot-from-2022-06-10-14-12-25.png)
+![Demo](https://i.ibb.co/0nH4DRX/Screenshot-from-2022-06-10-14-13-40.png)
